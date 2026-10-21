@@ -12,7 +12,7 @@ Self-hosted, OpenAI-compatible API bridge for the Muse web app. This community f
 2. Clone this repository and enter its directory:
 
    ```sh
-   git clone https://github.com/bynne2602/muse2api.git
+   git clone https://github.com/thanhson76/muse2api.git
    cd muse2api
    ```
 
